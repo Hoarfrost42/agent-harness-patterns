@@ -1,5 +1,7 @@
 # Agent Harness Patterns
 
+[中文](README.zh-CN.md) | English
+
 Practical patterns for keeping long-running agent coding work controllable.
 
 This repository is a field-tested toolkit, not a universal theory. It collects small rules, Codex skills, and reference templates that help reduce context bloat, stale-document drift, over-execution, and loss of human control in agent-assisted projects.
