@@ -30,6 +30,11 @@ examples/     Concrete failure patterns and before/after examples.
 
 ## Recommended Starting Point
 
+Start here if you only have five minutes:
+
+- [5 Minute Quickstart](QUICKSTART.md)
+- [Adoption Levels](references/adoption-levels.md)
+
 Start with these three:
 
 1. `snippets/command-output.md`
@@ -69,6 +74,12 @@ Short code is not enough. Keep the number of named concepts, managers, adapters,
 ### User-Facing Copy Is Not Developer Notes
 
 UI text, public pages, decks, and reports should speak to users, not future developers.
+
+## Examples
+
+- [Spec bloat before/after](examples/spec-bloat-before-after.md)
+- [Stale doc contamination](examples/stale-doc-contamination.md)
+- [Control loss gate](examples/control-loss-gate.md)
 
 ## Philosophy
 

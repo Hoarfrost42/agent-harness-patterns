@@ -30,6 +30,11 @@ examples/     具体失败模式和 before/after 示例。
 
 ## 推荐从哪里开始
 
+如果只想先花 5 分钟试一下，先看：
+
+- [5 Minute Quickstart](QUICKSTART.md)
+- [Adoption Levels](references/adoption-levels.md)
+
 先看这三个：
 
 1. `snippets/command-output.md`
@@ -69,6 +74,12 @@ Copy-Item -Recurse .\skills\project-continuity-control "$env:USERPROFILE\.codex\
 ### 用户可见文案不是开发备注
 
 UI、公开页面、演示稿和报告里的文字应该写给用户看，不应该暴露实现说明、未来 TODO 或技术字段维护口径。
+
+## 案例
+
+- [SPEC 膨胀 before/after](examples/spec-bloat-before-after.md)
+- [旧文档污染](examples/stale-doc-contamination.md)
+- [项目失控闸门](examples/control-loss-gate.md)
 
 ## 使用方式
 
