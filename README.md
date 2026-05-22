@@ -33,6 +33,7 @@ examples/     Concrete failure patterns and before/after examples.
 Start here if you only have five minutes:
 
 - [5 Minute Quickstart](QUICKSTART.md)
+- [5 分钟快速开始](QUICKSTART.zh-CN.md)
 - [Adoption Levels](references/adoption-levels.md)
 
 Start with these three:
@@ -80,6 +81,8 @@ UI text, public pages, decks, and reports should speak to users, not future deve
 - [Spec bloat before/after](examples/spec-bloat-before-after.md)
 - [Stale doc contamination](examples/stale-doc-contamination.md)
 - [Control loss gate](examples/control-loss-gate.md)
+
+Chinese companions are available for the quickstart, snippets, references, and examples using the `.zh-CN.md` suffix.
 
 ## Philosophy
 

@@ -32,14 +32,14 @@ examples/     具体失败模式和 before/after 示例。
 
 如果只想先花 5 分钟试一下，先看：
 
-- [5 Minute Quickstart](QUICKSTART.md)
-- [Adoption Levels](references/adoption-levels.md)
+- [5 分钟快速开始](QUICKSTART.zh-CN.md)
+- [采用层级](references/adoption-levels.zh-CN.md)
 
 先看这三个：
 
-1. `snippets/command-output.md`
+1. `snippets/command-output.zh-CN.md`
 2. `skills/project-continuity-control/SKILL.md`
-3. `references/control-loss-gate.md`
+3. `references/control-loss-gate.zh-CN.md`
 
 它们解决的是最常见的几类问题：token/上下文爆炸、旧 handoff 或旧文档误导、agent 在真正需要恢复掌控时仍然继续执行。
 
@@ -77,9 +77,9 @@ UI、公开页面、演示稿和报告里的文字应该写给用户看，不应
 
 ## 案例
 
-- [SPEC 膨胀 before/after](examples/spec-bloat-before-after.md)
-- [旧文档污染](examples/stale-doc-contamination.md)
-- [项目失控闸门](examples/control-loss-gate.md)
+- [SPEC 膨胀 before/after](examples/spec-bloat-before-after.zh-CN.md)
+- [旧文档污染](examples/stale-doc-contamination.zh-CN.md)
+- [项目失控闸门](examples/control-loss-gate.zh-CN.md)
 
 ## 使用方式
 
