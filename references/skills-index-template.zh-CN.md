@@ -2,6 +2,17 @@
 
 把它当成轻量路由参考。它不会改变 Codex 的 skill discovery。
 
+## Agent 入口
+
+这个文件是给 agent 在叠加 skill 或创建新 skill 前读取的。人不应该自己判断一个任务到底该用 snippet、reference 还是 skill；agent 应该自动路由到最小有用层。
+
+这些情况优先读它：
+
+- 一个任务可能命中多个 skill
+- 新 skill 可能和已有 skill 重复
+- 项目已经有失控感，继续执行可能太早
+- 用户询问哪个 skill 应该处理当前任务
+
 ## 路由规则
 
 - 不需要 skill 时，使用普通推理。

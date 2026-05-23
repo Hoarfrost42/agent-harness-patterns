@@ -38,6 +38,12 @@ Trigger when the user says or implies:
 
 When triggered, prefer project map recovery, phase/output clarification, concept reduction, and review before implementation.
 
+Use the smallest intervention that restores control:
+
+- Mild drift: continue work, but first name the current phase, next output, and acceptance standard.
+- Moderate control loss: pause scope expansion and produce a compact control surface before more implementation.
+- Severe control loss: freeze implementation and rebuild truth sources, stale-doc status, concept map, and next decisions before executing.
+
 ## Output Pattern
 
 When routing matters, explain briefly:

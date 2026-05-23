@@ -2,6 +2,17 @@
 
 Use this as a lightweight routing reference. It does not change skill discovery.
 
+## Agent Entry Point
+
+This file is for the agent to read before stacking skills or creating new ones. Humans should not need to decide whether a task needs a snippet, reference, or skill. The agent should route to the smallest useful layer.
+
+Use this file when:
+
+- a task may match multiple skills
+- a new skill may duplicate an existing one
+- a project feels out of control and execution may be premature
+- a user asks which skill should handle a task
+
 ## Routing Rules
 
 - Use ordinary reasoning when no skill is needed.

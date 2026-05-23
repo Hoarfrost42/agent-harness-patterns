@@ -25,6 +25,19 @@ current code > current production/runtime behavior > README or root handoff entr
 
 Polished old docs are suspect until checked against current code or runtime behavior.
 
+## Engineering Facts vs Product Intent
+
+The priority above is for engineering truth: what the repo and runtime currently do.
+
+For product, design, or strategy intent, current implementation may be a temporary prototype, greybox, wrong implementation, or compromise. In those tasks, compare code against stronger intent sources such as:
+
+- explicit user or stakeholder direction
+- PRDs, acceptance criteria, design briefs, or launch goals
+- user-facing requirements and UX standards
+- approved visual or interaction references
+
+Do not treat "the code currently does this" as proof that "the product should do this."
+
 ## Stale-Doc Contamination Check
 
 Before writing a handoff, read-first index, or continuity report, search for:

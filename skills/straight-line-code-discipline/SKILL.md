@@ -66,6 +66,16 @@ Do not flatten real boundaries just to reduce line count. Keep boundaries when t
 - durable data model vs temporary view state
 - project orchestration vs one feature implementation
 
+## Allowed Abstraction Examples
+
+Keep an abstraction when removing it would make the system less clear or less safe:
+
+- A stable domain object used by several features should stay named instead of becoming repeated loose fields.
+- A third-party API, database, file system, or model call should keep an adapter boundary so side effects stay isolated.
+- A complex state machine should keep explicit states and transitions rather than hiding them in scattered booleans.
+- A pure calculation should stay separate from UI or I/O code when that makes behavior easy to test.
+- A durable data contract should stay separate from temporary view state or formatting logic.
+
 ## Review Checklist
 
 - Is there one clear path from input to output?
