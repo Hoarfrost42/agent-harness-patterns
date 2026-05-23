@@ -90,6 +90,10 @@ Best practices are inputs, not authorities.
 
 Borrow from strong sources, adapt to your own workflow, test in real tasks, and keep only what reduces friction or restores control.
 
+## Links
+
+- [LINUX DO](https://linux.do/)
+
 ## Status
 
 Early personal practice repo. Use as patterns to try, not as finished doctrine.
