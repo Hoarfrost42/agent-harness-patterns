@@ -2,6 +2,8 @@
 
 这是一份轻量个人决策镜头示例。不要不加修改就把它装成全局规则。
 
+更完整的作者样例见 [personal-decision-lens-candidates.zh-CN.md](personal-decision-lens-candidates.zh-CN.md)。
+
 ## 核心原则
 
 ```text

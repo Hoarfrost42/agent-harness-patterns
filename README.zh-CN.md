@@ -91,6 +91,8 @@ UI、公开页面、演示稿和报告里的文字应该写给用户看，不应
 2. 再参考 `references/` 里的控制面板和索引模板。
 3. 只有当你真的遇到长项目、长上下文、多窗口、handoff 或 skill 调度问题时，再安装 `skills/`。
 
+如果你想看这套工具箱背后的个人决策偏好，可以读 [个人决策镜头候选](references/personal-decision-lens-candidates.zh-CN.md)。它不是通用规则，而是一个如何把个人判断偏好沉淀成轻量 reference 的完整样例。
+
 ## 哲学
 
 最佳实践是输入，不是权威。
